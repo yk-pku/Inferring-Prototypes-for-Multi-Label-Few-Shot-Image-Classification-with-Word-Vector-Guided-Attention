@@ -1,0 +1,1 @@
+{'VOC2012_2008_005393': {'categories': {'tvmonitor'}}, 'VOC2012_2009_001959': {'categories': {'sheep'}}, 'VOC2007_004838': {'categories': {'sofa'}}, 'VOC2012_2011_002717': {'categories': {'dog'}}, 'VOC2012_2008_003607': {'categories': {'cat', 'sofa', 'dog'}}, 'VOC2007_004274': {'categories': {'tvmonitor', 'pottedplant'}}}

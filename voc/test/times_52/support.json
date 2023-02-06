@@ -1,0 +1,1 @@
+{'VOC2007_005633': {'categories': {'aeroplane'}}, 'VOC2012_2010_004588': {'categories': {'bus'}}, 'VOC2007_008580': {'categories': {'train'}}, 'VOC2012_2008_007884': {'categories': {'aeroplane', 'boat'}}, 'VOC2012_2009_002510': {'categories': {'cow'}}, 'VOC2007_009246': {'categories': {'bird'}}}
