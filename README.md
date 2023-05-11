@@ -1,4 +1,4 @@
-# Inferring-Prototypes-for-Multi-Label-Few-Shot-Image-Classification-with-Word-Vector-Guided-Attention
+# Inferring Prototypes for Multi-Label Few-Shot Image Classification with Word Vector Guided Attention (AAAI2022)
 This is the data split for the AAAI2022 paper: Inferring Prototypes for Multi-Label Few-Shot Image Classification with Word Vector Guided Attention
 
 This repository contains the support set jsons (100) for validaton and test splits of COCO and VOC datasets. To evaluate the model based on 200 sampled test episodes as mentioned in paper,
